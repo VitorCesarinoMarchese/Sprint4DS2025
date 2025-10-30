@@ -1,2 +1,1101 @@
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+data,unidade,material,tipo,quantidade,responsavel
+2025-01-12,Santo Amaro,Tubo,saida,-5.04,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-4.93,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-4.95,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-5.04,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-5.37,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-4.78,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-5.31,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-4.66,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-5.30,Vincent
+2025-01-12,Santo Amaro,Tubo,saida,-4.61,Vincent
+2025-03-14,Moema,Seringa,saida,-3.02,Mason
+2025-03-14,Moema,Seringa,saida,-3.01,Mason
+2025-03-14,Moema,Seringa,saida,-3.05,Mason
+2025-03-14,Moema,Seringa,saida,-2.97,Mason
+2025-03-14,Moema,Seringa,saida,-2.83,Mason
+2025-03-14,Moema,Seringa,saida,-2.80,Mason
+2025-03-14,Moema,Seringa,saida,-2.76,Mason
+2025-03-14,Moema,Seringa,saida,-2.84,Mason
+2025-03-14,Moema,Seringa,saida,-2.87,Mason
+2025-03-14,Moema,Seringa,saida,-3.05,Mason
+2025-02-09,Santo Amaro,Seringa,saida,-5.36,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-4.69,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-4.78,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-5.28,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-5.34,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-5.37,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-4.94,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-5.00,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-4.69,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-5.27,Kenneth
+2025-03-23,Santo Amaro,Seringa,saida,-13.89,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-13.64,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-14.31,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-14.56,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-13.81,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-13.23,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-13.53,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-13.60,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-14.64,Jeffrey
+2025-03-23,Santo Amaro,Seringa,saida,-14.65,Jeffrey
+2024-12-13,Morumbi,Medicamentos,saida,-10.27,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-10.37,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-9.28,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-9.49,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-10.27,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-10.32,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-10.67,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-10.56,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-9.99,Robert
+2024-12-13,Morumbi,Medicamentos,saida,-9.54,Robert
+2025-05-12,Moema,Medicamentos,saida,-14.43,Debra
+2025-05-12,Moema,Medicamentos,saida,-13.34,Debra
+2025-05-12,Moema,Medicamentos,saida,-13.08,Debra
+2025-05-12,Moema,Medicamentos,saida,-12.93,Debra
+2025-05-12,Moema,Medicamentos,saida,-14.70,Debra
+2025-05-12,Moema,Medicamentos,saida,-14.79,Debra
+2025-05-12,Moema,Medicamentos,saida,-14.78,Debra
+2025-05-12,Moema,Medicamentos,saida,-12.91,Debra
+2025-05-12,Moema,Medicamentos,saida,-13.61,Debra
+2025-05-12,Moema,Medicamentos,saida,-14.57,Debra
+2025-03-15,Santo Amaro,Esparadrapo,saida,-9.25,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-9.42,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-9.95,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-9.30,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-9.67,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-9.79,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-9.58,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-10.68,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-10.34,Hannah
+2025-03-15,Santo Amaro,Esparadrapo,saida,-10.39,Hannah
+2025-03-26,Santo Amaro,Seringa,saida,-8.51,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-8.45,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-8.50,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-9.63,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-8.68,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-9.18,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-8.96,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-8.59,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-8.30,Leslie
+2025-03-26,Santo Amaro,Seringa,saida,-9.36,Leslie
+2025-05-09,Moema,Esparadrapo,saida,-1.87,Michael
+2025-05-09,Moema,Esparadrapo,saida,-2.00,Michael
+2025-05-09,Moema,Esparadrapo,saida,-1.99,Michael
+2025-05-09,Moema,Esparadrapo,saida,-1.90,Michael
+2025-05-09,Moema,Esparadrapo,saida,-1.91,Michael
+2025-05-09,Moema,Esparadrapo,saida,-1.85,Michael
+2025-05-09,Moema,Esparadrapo,saida,-1.89,Michael
+2025-05-09,Moema,Esparadrapo,saida,-2.13,Michael
+2025-05-09,Moema,Esparadrapo,saida,-2.15,Michael
+2025-05-09,Moema,Esparadrapo,saida,-1.85,Michael
+2025-04-08,Santo Amaro,Seringa,saida,-16.82,James
+2025-04-08,Santo Amaro,Seringa,saida,-17.72,James
+2025-04-08,Santo Amaro,Seringa,saida,-15.69,James
+2025-04-08,Santo Amaro,Seringa,saida,-17.46,James
+2025-04-08,Santo Amaro,Seringa,saida,-16.19,James
+2025-04-08,Santo Amaro,Seringa,saida,-15.89,James
+2025-04-08,Santo Amaro,Seringa,saida,-17.29,James
+2025-04-08,Santo Amaro,Seringa,saida,-15.96,James
+2025-04-08,Santo Amaro,Seringa,saida,-16.41,James
+2025-04-08,Santo Amaro,Seringa,saida,-16.89,James
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.47,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-18.41,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-17.87,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.30,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-17.60,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.48,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.74,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.15,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.35,Derek
+2025-02-04,Santo Amaro,Medicamentos,saida,-19.35,Derek
+2025-02-13,Moema,Medicamentos,saida,-4.74,Lynn
+2025-02-13,Moema,Medicamentos,saida,-5.26,Lynn
+2025-02-13,Moema,Medicamentos,saida,-4.84,Lynn
+2025-02-13,Moema,Medicamentos,saida,-4.71,Lynn
+2025-02-13,Moema,Medicamentos,saida,-5.05,Lynn
+2025-02-13,Moema,Medicamentos,saida,-5.04,Lynn
+2025-02-13,Moema,Medicamentos,saida,-4.99,Lynn
+2025-02-13,Moema,Medicamentos,saida,-4.91,Lynn
+2025-02-13,Moema,Medicamentos,saida,-5.27,Lynn
+2025-02-13,Moema,Medicamentos,saida,-5.12,Lynn
+2024-11-19,Santo Amaro,Seringa,saida,-8.08,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-8.25,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-8.07,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-8.16,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-8.19,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-7.69,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-8.39,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-8.37,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-7.42,Brandon
+2024-11-19,Santo Amaro,Seringa,saida,-7.76,Brandon
+2025-05-17,Moema,Medicamentos,saida,-11.38,Lisa
+2025-05-17,Moema,Medicamentos,saida,-11.48,Lisa
+2025-05-17,Moema,Medicamentos,saida,-12.36,Lisa
+2025-05-17,Moema,Medicamentos,saida,-12.53,Lisa
+2025-05-17,Moema,Medicamentos,saida,-12.43,Lisa
+2025-05-17,Moema,Medicamentos,saida,-11.47,Lisa
+2025-05-17,Moema,Medicamentos,saida,-11.74,Lisa
+2025-05-17,Moema,Medicamentos,saida,-12.60,Lisa
+2025-05-17,Moema,Medicamentos,saida,-11.12,Lisa
+2025-05-17,Moema,Medicamentos,saida,-11.29,Lisa
+2024-11-26,Morumbi,Seringa,saida,-15.98,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-18.07,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.72,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-17.58,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-17.55,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.82,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.60,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-17.03,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.26,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-15.80,Jeremy
+2024-12-15,Moema,Seringa,entrada,11.85,Nicole
+2024-12-15,Moema,Seringa,entrada,10.83,Nicole
+2024-12-15,Moema,Seringa,entrada,11.25,Nicole
+2024-12-15,Moema,Seringa,entrada,10.65,Nicole
+2024-12-15,Moema,Seringa,entrada,11.78,Nicole
+2024-12-15,Moema,Seringa,entrada,11.24,Nicole
+2024-12-15,Moema,Seringa,entrada,11.34,Nicole
+2024-12-15,Moema,Seringa,entrada,10.28,Nicole
+2024-12-15,Moema,Seringa,entrada,11.41,Nicole
+2024-12-15,Moema,Seringa,entrada,11.08,Nicole
+2025-04-24,Santo Amaro,Gaze,saida,-7.15,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-6.74,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-7.54,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-7.23,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-7.47,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-7.35,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-7.53,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-7.50,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-6.76,Matthew
+2025-04-24,Santo Amaro,Gaze,saida,-6.81,Matthew
+2025-01-29,Morumbi,Esparadrapo,saida,-12.19,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.21,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.43,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.24,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.11,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.70,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.92,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.71,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.64,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.40,Justin
+2025-02-18,Moema,Tubo,saida,-19.92,David
+2025-02-18,Moema,Tubo,saida,-17.74,David
+2025-02-18,Moema,Tubo,saida,-20.11,David
+2025-02-18,Moema,Tubo,saida,-17.85,David
+2025-02-18,Moema,Tubo,saida,-19.08,David
+2025-02-18,Moema,Tubo,saida,-17.66,David
+2025-02-18,Moema,Tubo,saida,-18.88,David
+2025-02-18,Moema,Tubo,saida,-18.61,David
+2025-02-18,Moema,Tubo,saida,-18.30,David
+2025-02-18,Moema,Tubo,saida,-20.03,David
+2025-05-01,Moema,Esparadrapo,saida,-9.73,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-9.89,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-9.37,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-10.67,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-10.13,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-9.73,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-9.90,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-10.23,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-10.30,Theodore
+2025-05-01,Moema,Esparadrapo,saida,-10.27,Theodore
+2025-03-24,Moema,Gaze,saida,-14.16,Robin
+2025-03-24,Moema,Gaze,saida,-13.25,Robin
+2025-03-24,Moema,Gaze,saida,-14.35,Robin
+2025-03-24,Moema,Gaze,saida,-13.98,Robin
+2025-03-24,Moema,Gaze,saida,-14.20,Robin
+2025-03-24,Moema,Gaze,saida,-13.28,Robin
+2025-03-24,Moema,Gaze,saida,-13.42,Robin
+2025-03-24,Moema,Gaze,saida,-14.32,Robin
+2025-03-24,Moema,Gaze,saida,-13.48,Robin
+2025-03-24,Moema,Gaze,saida,-13.01,Robin
+2025-03-13,Morumbi,Medicamentos,saida,-9.50,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-9.61,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-8.77,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-9.25,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-8.93,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-9.67,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-9.05,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-9.11,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-9.68,Kimberly
+2025-03-13,Morumbi,Medicamentos,saida,-9.16,Kimberly
+2024-12-31,Santo Amaro,Esparadrapo,saida,-2.08,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-2.06,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-2.00,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-1.90,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-1.86,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-1.88,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-2.00,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-1.84,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-1.98,Rachel
+2024-12-31,Santo Amaro,Esparadrapo,saida,-1.98,Rachel
+2025-02-08,Moema,Esparadrapo,saida,-9.25,Janet
+2025-02-08,Moema,Esparadrapo,saida,-9.57,Janet
+2025-02-08,Moema,Esparadrapo,saida,-9.92,Janet
+2025-02-08,Moema,Esparadrapo,saida,-10.78,Janet
+2025-02-08,Moema,Esparadrapo,saida,-9.64,Janet
+2025-02-08,Moema,Esparadrapo,saida,-10.35,Janet
+2025-02-08,Moema,Esparadrapo,saida,-10.54,Janet
+2025-02-08,Moema,Esparadrapo,saida,-10.52,Janet
+2025-02-08,Moema,Esparadrapo,saida,-9.27,Janet
+2025-02-08,Moema,Esparadrapo,saida,-9.27,Janet
+2025-05-15,Moema,Seringa,saida,-7.06,Ann
+2025-05-15,Moema,Seringa,saida,-6.71,Ann
+2025-05-15,Moema,Seringa,saida,-6.95,Ann
+2025-05-15,Moema,Seringa,saida,-6.92,Ann
+2025-05-15,Moema,Seringa,saida,-7.11,Ann
+2025-05-15,Moema,Seringa,saida,-7.19,Ann
+2025-05-15,Moema,Seringa,saida,-7.15,Ann
+2025-05-15,Moema,Seringa,saida,-7.39,Ann
+2025-05-15,Moema,Seringa,saida,-7.00,Ann
+2025-05-15,Moema,Seringa,saida,-7.40,Ann
+2025-01-04,Santo Amaro,Medicamentos,saida,-13.52,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-15.07,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-14.61,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-13.10,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-13.76,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-13.84,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-15.03,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-14.91,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-14.83,Alice
+2025-01-04,Santo Amaro,Medicamentos,saida,-13.20,Alice
+2025-02-18,Santo Amaro,Esparadrapo,saida,-6.53,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-6.51,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-7.20,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-6.95,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-7.50,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-7.46,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-6.49,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-6.89,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-7.41,Kelly
+2025-02-18,Santo Amaro,Esparadrapo,saida,-7.04,Kelly
+2024-11-25,Moema,Gaze,saida,-4.29,William
+2024-11-25,Moema,Gaze,saida,-4.31,William
+2024-11-25,Moema,Gaze,saida,-3.85,William
+2024-11-25,Moema,Gaze,saida,-4.10,William
+2024-11-25,Moema,Gaze,saida,-3.93,William
+2024-11-25,Moema,Gaze,saida,-4.22,William
+2024-11-25,Moema,Gaze,saida,-3.97,William
+2024-11-25,Moema,Gaze,saida,-4.10,William
+2024-11-25,Moema,Gaze,saida,-4.09,William
+2024-11-25,Moema,Gaze,saida,-3.79,William
+2025-03-30,Santo Amaro,Medicamentos,entrada,507.92,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,495.73,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,521.29,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,485.40,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,503.81,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,530.78,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,470.59,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,506.62,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,493.69,Patrick
+2025-03-30,Santo Amaro,Medicamentos,entrada,528.24,Patrick
+2025-04-21,Morumbi,Seringa,saida,-7.39,Justin
+2025-04-21,Morumbi,Seringa,saida,-6.65,Justin
+2025-04-21,Morumbi,Seringa,saida,-7.20,Justin
+2025-04-21,Morumbi,Seringa,saida,-6.87,Justin
+2025-04-21,Morumbi,Seringa,saida,-6.64,Justin
+2025-04-21,Morumbi,Seringa,saida,-7.20,Justin
+2025-04-21,Morumbi,Seringa,saida,-6.93,Justin
+2025-04-21,Morumbi,Seringa,saida,-7.03,Justin
+2025-04-21,Morumbi,Seringa,saida,-7.13,Justin
+2025-04-21,Morumbi,Seringa,saida,-6.59,Justin
+2024-11-18,Moema,Medicamentos,saida,-19.03,Andrea
+2024-11-18,Moema,Medicamentos,saida,-18.26,Andrea
+2024-11-18,Moema,Medicamentos,saida,-17.86,Andrea
+2024-11-18,Moema,Medicamentos,saida,-18.51,Andrea
+2024-11-18,Moema,Medicamentos,saida,-18.99,Andrea
+2024-11-18,Moema,Medicamentos,saida,-17.70,Andrea
+2024-11-18,Moema,Medicamentos,saida,-17.79,Andrea
+2024-11-18,Moema,Medicamentos,saida,-19.72,Andrea
+2024-11-18,Moema,Medicamentos,saida,-20.25,Andrea
+2024-11-18,Moema,Medicamentos,saida,-19.27,Andrea
+2025-04-07,Santo Amaro,Seringa,saida,-13.94,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-12.26,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-13.37,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-13.07,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-12.82,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-12.39,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-13.97,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-12.70,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-12.46,Michael
+2025-04-07,Santo Amaro,Seringa,saida,-13.37,Michael
+2025-03-14,Santo Amaro,Tubo,saida,-9.50,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.21,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.22,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-8.43,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.44,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.15,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.32,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.65,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.45,Amy
+2025-03-14,Santo Amaro,Tubo,saida,-9.69,Amy
+2025-02-13,Morumbi,Seringa,saida,-19.45,Nathan
+2025-02-13,Morumbi,Seringa,saida,-18.54,Nathan
+2025-02-13,Morumbi,Seringa,saida,-20.23,Nathan
+2025-02-13,Morumbi,Seringa,saida,-17.89,Nathan
+2025-02-13,Morumbi,Seringa,saida,-19.90,Nathan
+2025-02-13,Morumbi,Seringa,saida,-19.26,Nathan
+2025-02-13,Morumbi,Seringa,saida,-19.52,Nathan
+2025-02-13,Morumbi,Seringa,saida,-20.14,Nathan
+2025-02-13,Morumbi,Seringa,saida,-19.62,Nathan
+2025-02-13,Morumbi,Seringa,saida,-17.92,Nathan
+2025-01-18,Moema,Esparadrapo,saida,-16.94,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-16.02,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-15.86,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-16.78,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-18.20,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-17.41,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-16.86,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-16.61,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-15.67,Kimberly
+2025-01-18,Moema,Esparadrapo,saida,-17.19,Kimberly
+2025-01-10,Moema,Gaze,saida,-17.30,Nicole
+2025-01-10,Moema,Gaze,saida,-16.93,Nicole
+2025-01-10,Moema,Gaze,saida,-17.95,Nicole
+2025-01-10,Moema,Gaze,saida,-16.19,Nicole
+2025-01-10,Moema,Gaze,saida,-17.68,Nicole
+2025-01-10,Moema,Gaze,saida,-16.29,Nicole
+2025-01-10,Moema,Gaze,saida,-17.44,Nicole
+2025-01-10,Moema,Gaze,saida,-16.17,Nicole
+2025-01-10,Moema,Gaze,saida,-16.27,Nicole
+2025-01-10,Moema,Gaze,saida,-16.57,Nicole
+2025-01-22,Santo Amaro,Seringa,saida,-18.29,John
+2025-01-22,Santo Amaro,Seringa,saida,-17.11,John
+2025-01-22,Santo Amaro,Seringa,saida,-18.80,John
+2025-01-22,Santo Amaro,Seringa,saida,-17.39,John
+2025-01-22,Santo Amaro,Seringa,saida,-18.78,John
+2025-01-22,Santo Amaro,Seringa,saida,-19.36,John
+2025-01-22,Santo Amaro,Seringa,saida,-17.37,John
+2025-01-22,Santo Amaro,Seringa,saida,-17.14,John
+2025-01-22,Santo Amaro,Seringa,saida,-18.25,John
+2025-01-22,Santo Amaro,Seringa,saida,-17.21,John
+2025-01-25,Santo Amaro,Tubo,entrada,320.11,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,297.68,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,286.52,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,294.92,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,309.76,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,282.90,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,320.36,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,326.73,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,310.51,Mason
+2025-01-25,Santo Amaro,Tubo,entrada,289.70,Mason
+2025-05-18,Santo Amaro,Seringa,saida,-18.41,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-19.71,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-18.67,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-18.80,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-17.62,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-18.31,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-18.79,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-19.54,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-18.87,Paul
+2025-05-18,Santo Amaro,Seringa,saida,-18.32,Paul
+2025-01-06,Morumbi,Seringa,saida,-8.27,Kevin
+2025-01-06,Morumbi,Seringa,saida,-7.56,Kevin
+2025-01-06,Morumbi,Seringa,saida,-7.72,Kevin
+2025-01-06,Morumbi,Seringa,saida,-8.28,Kevin
+2025-01-06,Morumbi,Seringa,saida,-8.42,Kevin
+2025-01-06,Morumbi,Seringa,saida,-7.71,Kevin
+2025-01-06,Morumbi,Seringa,saida,-7.75,Kevin
+2025-01-06,Morumbi,Seringa,saida,-8.43,Kevin
+2025-01-06,Morumbi,Seringa,saida,-8.04,Kevin
+2025-01-06,Morumbi,Seringa,saida,-8.06,Kevin
+2025-02-26,Moema,Seringa,saida,-17.43,Fernando
+2025-02-26,Moema,Seringa,saida,-16.55,Fernando
+2025-02-26,Moema,Seringa,saida,-16.98,Fernando
+2025-02-26,Moema,Seringa,saida,-17.12,Fernando
+2025-02-26,Moema,Seringa,saida,-16.04,Fernando
+2025-02-26,Moema,Seringa,saida,-17.64,Fernando
+2025-02-26,Moema,Seringa,saida,-17.17,Fernando
+2025-02-26,Moema,Seringa,saida,-15.65,Fernando
+2025-02-26,Moema,Seringa,saida,-17.30,Fernando
+2025-02-26,Moema,Seringa,saida,-16.66,Fernando
+2025-01-25,Morumbi,Tubo,saida,-10.68,Patrick
+2025-01-25,Morumbi,Tubo,saida,-10.80,Patrick
+2025-01-25,Morumbi,Tubo,saida,-11.45,Patrick
+2025-01-25,Morumbi,Tubo,saida,-10.67,Patrick
+2025-01-25,Morumbi,Tubo,saida,-11.44,Patrick
+2025-01-25,Morumbi,Tubo,saida,-11.47,Patrick
+2025-01-25,Morumbi,Tubo,saida,-10.24,Patrick
+2025-01-25,Morumbi,Tubo,saida,-10.60,Patrick
+2025-01-25,Morumbi,Tubo,saida,-10.92,Patrick
+2025-01-25,Morumbi,Tubo,saida,-11.09,Patrick
+2025-01-22,Morumbi,Tubo,saida,-2.02,William
+2025-01-22,Morumbi,Tubo,saida,-1.94,William
+2025-01-22,Morumbi,Tubo,saida,-2.08,William
+2025-01-22,Morumbi,Tubo,saida,-1.94,William
+2025-01-22,Morumbi,Tubo,saida,-1.89,William
+2025-01-22,Morumbi,Tubo,saida,-2.09,William
+2025-01-22,Morumbi,Tubo,saida,-1.89,William
+2025-01-22,Morumbi,Tubo,saida,-2.08,William
+2025-01-22,Morumbi,Tubo,saida,-1.96,William
+2025-01-22,Morumbi,Tubo,saida,-2.14,William
+2024-11-18,Santo Amaro,Medicamentos,saida,-15.93,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-14.50,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-14.64,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-15.82,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-16.12,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-16.02,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-14.47,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-15.43,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-14.58,Sarah
+2024-11-18,Santo Amaro,Medicamentos,saida,-16.11,Sarah
+2025-01-19,Moema,Medicamentos,saida,-3.17,Amber
+2025-01-19,Moema,Medicamentos,saida,-2.92,Amber
+2025-01-19,Moema,Medicamentos,saida,-3.11,Amber
+2025-01-19,Moema,Medicamentos,saida,-2.87,Amber
+2025-01-19,Moema,Medicamentos,saida,-3.10,Amber
+2025-01-19,Moema,Medicamentos,saida,-3.20,Amber
+2025-01-19,Moema,Medicamentos,saida,-3.06,Amber
+2025-01-19,Moema,Medicamentos,saida,-3.15,Amber
+2025-01-19,Moema,Medicamentos,saida,-3.18,Amber
+2025-01-19,Moema,Medicamentos,saida,-2.99,Amber
+2025-01-16,Santo Amaro,Medicamentos,saida,-13.14,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-13.47,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-13.71,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-13.44,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-12.45,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-12.59,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-13.84,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-13.94,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-12.46,Yvonne
+2025-01-16,Santo Amaro,Medicamentos,saida,-12.73,Yvonne
+2025-05-16,Moema,Seringa,saida,-8.77,Stephanie
+2025-05-16,Moema,Seringa,saida,-9.08,Stephanie
+2025-05-16,Moema,Seringa,saida,-8.64,Stephanie
+2025-05-16,Moema,Seringa,saida,-9.23,Stephanie
+2025-05-16,Moema,Seringa,saida,-9.10,Stephanie
+2025-05-16,Moema,Seringa,saida,-8.66,Stephanie
+2025-05-16,Moema,Seringa,saida,-9.12,Stephanie
+2025-05-16,Moema,Seringa,saida,-9.08,Stephanie
+2025-05-16,Moema,Seringa,saida,-9.62,Stephanie
+2025-05-16,Moema,Seringa,saida,-9.51,Stephanie
+2025-04-28,Santo Amaro,Medicamentos,entrada,133.11,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,143.63,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,127.17,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,140.71,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,131.64,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,130.85,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,140.74,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,139.05,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,132.76,Chelsea
+2025-04-28,Santo Amaro,Medicamentos,entrada,139.84,Chelsea
+2024-11-30,Morumbi,Medicamentos,saida,-14.72,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-12.89,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-13.97,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-14.31,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-14.02,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-13.34,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-13.82,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-15.05,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-12.88,Katie
+2024-11-30,Morumbi,Medicamentos,saida,-14.77,Katie
+2025-01-17,Moema,Esparadrapo,saida,-4.04,James
+2025-01-17,Moema,Esparadrapo,saida,-4.01,James
+2025-01-17,Moema,Esparadrapo,saida,-4.11,James
+2025-01-17,Moema,Esparadrapo,saida,-3.95,James
+2025-01-17,Moema,Esparadrapo,saida,-3.98,James
+2025-01-17,Moema,Esparadrapo,saida,-3.94,James
+2025-01-17,Moema,Esparadrapo,saida,-3.75,James
+2025-01-17,Moema,Esparadrapo,saida,-3.91,James
+2025-01-17,Moema,Esparadrapo,saida,-4.21,James
+2025-01-17,Moema,Esparadrapo,saida,-4.04,James
+2025-01-03,Moema,Gaze,saida,-18.18,Russell
+2025-01-03,Moema,Gaze,saida,-18.07,Russell
+2025-01-03,Moema,Gaze,saida,-19.36,Russell
+2025-01-03,Moema,Gaze,saida,-20.07,Russell
+2025-01-03,Moema,Gaze,saida,-19.86,Russell
+2025-01-03,Moema,Gaze,saida,-19.14,Russell
+2025-01-03,Moema,Gaze,saida,-18.02,Russell
+2025-01-03,Moema,Gaze,saida,-18.21,Russell
+2025-01-03,Moema,Gaze,saida,-18.25,Russell
+2025-01-03,Moema,Gaze,saida,-19.80,Russell
+2025-04-10,Morumbi,Medicamentos,saida,-2.11,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.08,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-1.96,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.14,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-1.85,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.14,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.08,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.09,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-1.86,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-1.87,Joseph
+2025-02-25,Moema,Seringa,saida,-11.52,Michele
+2025-02-25,Moema,Seringa,saida,-12.01,Michele
+2025-02-25,Moema,Seringa,saida,-11.87,Michele
+2025-02-25,Moema,Seringa,saida,-11.95,Michele
+2025-02-25,Moema,Seringa,saida,-12.18,Michele
+2025-02-25,Moema,Seringa,saida,-12.90,Michele
+2025-02-25,Moema,Seringa,saida,-11.65,Michele
+2025-02-25,Moema,Seringa,saida,-12.79,Michele
+2025-02-25,Moema,Seringa,saida,-12.42,Michele
+2025-02-25,Moema,Seringa,saida,-12.06,Michele
+2025-03-13,Morumbi,Gaze,saida,-6.73,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.74,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.71,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.82,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.82,Nancy
+2025-03-13,Morumbi,Gaze,saida,-7.19,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.93,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.98,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.73,Nancy
+2025-03-13,Morumbi,Gaze,saida,-6.52,Nancy
+2025-01-07,Morumbi,Seringa,saida,-9.93,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.57,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.70,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.16,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.62,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.55,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.00,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.28,Breanna
+2025-01-07,Morumbi,Seringa,saida,-10.42,Breanna
+2025-01-07,Morumbi,Seringa,saida,-9.98,Breanna
+2025-03-07,Moema,Tubo,saida,-1.08,Julie
+2025-03-07,Moema,Tubo,saida,-0.94,Julie
+2025-03-07,Moema,Tubo,saida,-1.06,Julie
+2025-03-07,Moema,Tubo,saida,-0.94,Julie
+2025-03-07,Moema,Tubo,saida,-0.99,Julie
+2025-03-07,Moema,Tubo,saida,-0.97,Julie
+2025-03-07,Moema,Tubo,saida,-1.02,Julie
+2025-03-07,Moema,Tubo,saida,-1.00,Julie
+2025-03-07,Moema,Tubo,saida,-0.96,Julie
+2025-03-07,Moema,Tubo,saida,-1.02,Julie
+2025-05-15,Santo Amaro,Seringa,saida,-3.78,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-4.07,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-4.20,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-4.11,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-4.25,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-4.09,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-4.12,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-3.77,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-3.89,Ricky
+2025-05-15,Santo Amaro,Seringa,saida,-3.97,Ricky
+2024-12-19,Moema,Esparadrapo,saida,-15.69,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-14.95,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-14.49,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-15.77,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-14.82,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-16.06,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-14.08,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-15.52,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-14.05,Tammy
+2024-12-19,Moema,Esparadrapo,saida,-14.62,Tammy
+2024-12-31,Santo Amaro,Gaze,saida,-17.76,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-18.95,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-17.27,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-19.32,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-19.12,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-17.18,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-18.70,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-19.36,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-16.58,Melissa
+2024-12-31,Santo Amaro,Gaze,saida,-17.09,Melissa
+2024-12-12,Moema,Tubo,saida,-19.34,Daniel
+2024-12-12,Moema,Tubo,saida,-20.28,Daniel
+2024-12-12,Moema,Tubo,saida,-17.50,Daniel
+2024-12-12,Moema,Tubo,saida,-18.15,Daniel
+2024-12-12,Moema,Tubo,saida,-17.98,Daniel
+2024-12-12,Moema,Tubo,saida,-19.40,Daniel
+2024-12-12,Moema,Tubo,saida,-18.17,Daniel
+2024-12-12,Moema,Tubo,saida,-19.65,Daniel
+2024-12-12,Moema,Tubo,saida,-20.39,Daniel
+2024-12-12,Moema,Tubo,saida,-18.19,Daniel
+2025-04-24,Morumbi,Esparadrapo,saida,-9.73,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-10.14,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-10.50,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-10.63,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-10.08,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-10.01,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-9.77,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-10.25,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-9.54,Ryan
+2025-04-24,Morumbi,Esparadrapo,saida,-9.47,Ryan
+2025-01-16,Santo Amaro,Tubo,saida,-13.28,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-13.94,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-12.51,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-13.13,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-13.43,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-13.57,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-14.03,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-12.73,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-13.28,Tara
+2025-01-16,Santo Amaro,Tubo,saida,-12.00,Tara
+2025-01-27,Santo Amaro,Gaze,saida,-7.53,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-7.33,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-7.36,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-7.42,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-7.44,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-6.61,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-6.90,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-7.40,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-7.35,Jason
+2025-01-27,Santo Amaro,Gaze,saida,-6.52,Jason
+2025-05-02,Morumbi,Esparadrapo,saida,-2.01,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-1.93,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-1.97,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-2.12,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-2.08,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-2.01,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-2.04,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-1.98,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-1.86,Deborah
+2025-05-02,Morumbi,Esparadrapo,saida,-1.88,Deborah
+2024-12-29,Moema,Tubo,entrada,191.50,Kari
+2024-12-29,Moema,Tubo,entrada,179.95,Kari
+2024-12-29,Moema,Tubo,entrada,177.70,Kari
+2024-12-29,Moema,Tubo,entrada,169.62,Kari
+2024-12-29,Moema,Tubo,entrada,187.83,Kari
+2024-12-29,Moema,Tubo,entrada,189.04,Kari
+2024-12-29,Moema,Tubo,entrada,196.79,Kari
+2024-12-29,Moema,Tubo,entrada,178.48,Kari
+2024-12-29,Moema,Tubo,entrada,196.10,Kari
+2024-12-29,Moema,Tubo,entrada,179.63,Kari
+2025-04-03,Santo Amaro,Gaze,saida,-2.83,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-2.99,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-2.78,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-3.12,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-2.78,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-3.00,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-3.10,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-3.21,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-2.90,Holly
+2025-04-03,Santo Amaro,Gaze,saida,-2.85,Holly
+2025-02-03,Moema,Gaze,saida,-15.23,Kelsey
+2025-02-03,Moema,Gaze,saida,-15.09,Kelsey
+2025-02-03,Moema,Gaze,saida,-17.20,Kelsey
+2025-02-03,Moema,Gaze,saida,-16.11,Kelsey
+2025-02-03,Moema,Gaze,saida,-15.98,Kelsey
+2025-02-03,Moema,Gaze,saida,-15.28,Kelsey
+2025-02-03,Moema,Gaze,saida,-16.45,Kelsey
+2025-02-03,Moema,Gaze,saida,-15.19,Kelsey
+2025-02-03,Moema,Gaze,saida,-16.54,Kelsey
+2025-02-03,Moema,Gaze,saida,-15.55,Kelsey
+2025-02-13,Morumbi,Esparadrapo,saida,-18.42,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-17.98,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-18.07,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-17.34,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-16.73,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-18.01,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-17.33,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-19.41,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-16.98,Charles
+2025-02-13,Morumbi,Esparadrapo,saida,-18.27,Charles
+2024-12-03,Santo Amaro,Gaze,saida,-9.85,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.55,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.46,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.32,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.53,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.79,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.43,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.41,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.34,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.71,Brett
+2025-04-21,Santo Amaro,Tubo,saida,-19.30,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-18.14,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-19.08,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-18.35,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-20.47,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-19.62,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-19.09,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-19.25,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-17.77,Alexandra
+2025-04-21,Santo Amaro,Tubo,saida,-19.24,Alexandra
+2025-03-11,Moema,Medicamentos,saida,-11.15,William
+2025-03-11,Moema,Medicamentos,saida,-11.85,William
+2025-03-11,Moema,Medicamentos,saida,-12.60,William
+2025-03-11,Moema,Medicamentos,saida,-11.54,William
+2025-03-11,Moema,Medicamentos,saida,-12.55,William
+2025-03-11,Moema,Medicamentos,saida,-12.40,William
+2025-03-11,Moema,Medicamentos,saida,-11.12,William
+2025-03-11,Moema,Medicamentos,saida,-12.95,William
+2025-03-11,Moema,Medicamentos,saida,-11.77,William
+2025-03-11,Moema,Medicamentos,saida,-12.29,William
+2024-12-07,Moema,Gaze,saida,-6.43,Tyler
+2024-12-07,Moema,Gaze,saida,-5.75,Tyler
+2024-12-07,Moema,Gaze,saida,-6.05,Tyler
+2024-12-07,Moema,Gaze,saida,-6.17,Tyler
+2024-12-07,Moema,Gaze,saida,-5.82,Tyler
+2024-12-07,Moema,Gaze,saida,-5.61,Tyler
+2024-12-07,Moema,Gaze,saida,-6.42,Tyler
+2024-12-07,Moema,Gaze,saida,-5.62,Tyler
+2024-12-07,Moema,Gaze,saida,-5.53,Tyler
+2024-12-07,Moema,Gaze,saida,-6.20,Tyler
+2025-01-07,Moema,Medicamentos,saida,-19.17,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.00,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.13,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.86,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.93,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.66,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.02,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.79,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.98,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.03,Melinda
+2025-02-12,Morumbi,Medicamentos,saida,-14.50,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-14.88,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-14.70,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-14.76,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-13.88,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-14.84,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-14.62,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-13.23,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-13.39,Tony
+2025-02-12,Morumbi,Medicamentos,saida,-12.89,Tony
+2025-01-21,Santo Amaro,Seringa,saida,-6.88,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-6.62,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-7.00,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-6.68,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-7.08,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-7.18,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-6.61,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-6.71,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-7.14,Christy
+2025-01-21,Santo Amaro,Seringa,saida,-7.17,Christy
+2025-05-01,Moema,Medicamentos,saida,-8.62,Adam
+2025-05-01,Moema,Medicamentos,saida,-9.05,Adam
+2025-05-01,Moema,Medicamentos,saida,-9.06,Adam
+2025-05-01,Moema,Medicamentos,saida,-9.14,Adam
+2025-05-01,Moema,Medicamentos,saida,-8.61,Adam
+2025-05-01,Moema,Medicamentos,saida,-9.15,Adam
+2025-05-01,Moema,Medicamentos,saida,-9.31,Adam
+2025-05-01,Moema,Medicamentos,saida,-8.30,Adam
+2025-05-01,Moema,Medicamentos,saida,-9.56,Adam
+2025-05-01,Moema,Medicamentos,saida,-8.73,Adam
+2025-02-09,Santo Amaro,Gaze,saida,-13.59,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-12.27,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-13.23,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-13.19,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-12.43,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-12.51,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-13.03,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-14.00,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-12.30,Natasha
+2025-02-09,Santo Amaro,Gaze,saida,-13.82,Natasha
+2025-05-07,Moema,Esparadrapo,saida,-3.80,Tina
+2025-05-07,Moema,Esparadrapo,saida,-4.32,Tina
+2025-05-07,Moema,Esparadrapo,saida,-3.82,Tina
+2025-05-07,Moema,Esparadrapo,saida,-4.07,Tina
+2025-05-07,Moema,Esparadrapo,saida,-4.25,Tina
+2025-05-07,Moema,Esparadrapo,saida,-4.22,Tina
+2025-05-07,Moema,Esparadrapo,saida,-3.87,Tina
+2025-05-07,Moema,Esparadrapo,saida,-4.31,Tina
+2025-05-07,Moema,Esparadrapo,saida,-4.12,Tina
+2025-05-07,Moema,Esparadrapo,saida,-4.30,Tina
+2025-02-28,Santo Amaro,Tubo,saida,-2.06,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-2.05,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-2.02,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-1.85,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-1.98,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-1.95,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-2.10,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-2.03,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-1.90,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-2.04,Tyler
+2025-04-04,Santo Amaro,Medicamentos,saida,-13.92,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-14.34,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-13.73,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-14.33,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-14.81,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-12.93,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-13.82,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-13.74,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-13.45,Monica
+2025-04-04,Santo Amaro,Medicamentos,saida,-13.74,Monica
+2025-05-09,Moema,Seringa,saida,-3.17,Kenneth
+2025-05-09,Moema,Seringa,saida,-2.93,Kenneth
+2025-05-09,Moema,Seringa,saida,-2.79,Kenneth
+2025-05-09,Moema,Seringa,saida,-3.01,Kenneth
+2025-05-09,Moema,Seringa,saida,-3.14,Kenneth
+2025-05-09,Moema,Seringa,saida,-3.12,Kenneth
+2025-05-09,Moema,Seringa,saida,-3.22,Kenneth
+2025-05-09,Moema,Seringa,saida,-3.02,Kenneth
+2025-05-09,Moema,Seringa,saida,-3.07,Kenneth
+2025-05-09,Moema,Seringa,saida,-2.79,Kenneth
+2025-04-22,Morumbi,Tubo,saida,-15.39,Julie
+2025-04-22,Morumbi,Tubo,saida,-15.28,Julie
+2025-04-22,Morumbi,Tubo,saida,-15.70,Julie
+2025-04-22,Morumbi,Tubo,saida,-14.12,Julie
+2025-04-22,Morumbi,Tubo,saida,-14.97,Julie
+2025-04-22,Morumbi,Tubo,saida,-14.70,Julie
+2025-04-22,Morumbi,Tubo,saida,-15.17,Julie
+2025-04-22,Morumbi,Tubo,saida,-14.96,Julie
+2025-04-22,Morumbi,Tubo,saida,-14.10,Julie
+2025-04-22,Morumbi,Tubo,saida,-14.39,Julie
+2025-01-17,Santo Amaro,Tubo,saida,-6.31,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-6.11,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-6.43,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-5.63,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-5.95,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-6.41,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-6.37,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-5.55,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-6.42,Gary
+2025-01-17,Santo Amaro,Tubo,saida,-5.94,Gary
+2025-02-04,Morumbi,Medicamentos,saida,-8.70,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-9.33,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-9.34,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-8.79,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-8.61,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-8.85,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-9.08,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-8.90,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-8.86,Harold
+2025-02-04,Morumbi,Medicamentos,saida,-9.28,Harold
+2025-04-27,Santo Amaro,Tubo,saida,-5.72,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-5.75,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-6.22,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-6.08,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-5.92,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-6.42,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-6.15,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-6.17,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-6.12,Johnny
+2025-04-27,Santo Amaro,Tubo,saida,-5.97,Johnny
+2025-03-18,Morumbi,Esparadrapo,saida,-3.00,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-2.98,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-2.95,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-2.96,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-2.85,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-3.23,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-3.19,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-3.09,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-2.86,Sarah
+2025-03-18,Morumbi,Esparadrapo,saida,-3.03,Sarah
+2024-12-20,Santo Amaro,Gaze,saida,-8.53,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-7.60,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-7.39,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-7.85,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-8.16,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-8.02,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-7.38,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-8.17,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-8.59,Ashley
+2024-12-20,Santo Amaro,Gaze,saida,-8.19,Ashley
+2025-04-19,Moema,Gaze,saida,-14.95,Michael
+2025-04-19,Moema,Gaze,saida,-15.30,Michael
+2025-04-19,Moema,Gaze,saida,-15.53,Michael
+2025-04-19,Moema,Gaze,saida,-16.96,Michael
+2025-04-19,Moema,Gaze,saida,-15.85,Michael
+2025-04-19,Moema,Gaze,saida,-16.86,Michael
+2025-04-19,Moema,Gaze,saida,-16.11,Michael
+2025-04-19,Moema,Gaze,saida,-15.44,Michael
+2025-04-19,Moema,Gaze,saida,-16.95,Michael
+2025-04-19,Moema,Gaze,saida,-15.43,Michael
+2025-05-06,Morumbi,Gaze,saida,-12.39,Valerie
+2025-05-06,Morumbi,Gaze,saida,-12.27,Valerie
+2025-05-06,Morumbi,Gaze,saida,-12.21,Valerie
+2025-05-06,Morumbi,Gaze,saida,-12.43,Valerie
+2025-05-06,Morumbi,Gaze,saida,-11.19,Valerie
+2025-05-06,Morumbi,Gaze,saida,-12.94,Valerie
+2025-05-06,Morumbi,Gaze,saida,-11.83,Valerie
+2025-05-06,Morumbi,Gaze,saida,-11.75,Valerie
+2025-05-06,Morumbi,Gaze,saida,-12.64,Valerie
+2025-05-06,Morumbi,Gaze,saida,-11.59,Valerie
+2024-11-17,Moema,Seringa,saida,-18.06,
+2024-11-17,Moema,Seringa,saida,-16.66,
+2024-11-17,Moema,Seringa,saida,-17.44,
+2024-11-17,Moema,Seringa,saida,-17.96,
+2024-11-17,Moema,Seringa,saida,-17.71,
+2024-11-17,Moema,Seringa,saida,-18.95,
+2024-11-17,Moema,Seringa,saida,-17.65,
+2024-11-17,Moema,Seringa,saida,-18.36,
+2024-11-17,Moema,Seringa,saida,-19.36,
+2024-11-17,Moema,Seringa,saida,-17.38,
+2025-03-18,Moema,Tubo,saida,-4.83,Melissa
+2025-03-18,Moema,Tubo,saida,-4.67,Melissa
+2025-03-18,Moema,Tubo,saida,-4.80,Melissa
+2025-03-18,Moema,Tubo,saida,-4.79,Melissa
+2025-03-18,Moema,Tubo,saida,-5.35,Melissa
+2025-03-18,Moema,Tubo,saida,-4.98,Melissa
+2025-03-18,Moema,Tubo,saida,-4.78,Melissa
+2025-03-18,Moema,Tubo,saida,-4.94,Melissa
+2025-03-18,Moema,Tubo,saida,-4.62,Melissa
+2025-03-18,Moema,Tubo,saida,-5.35,Melissa
+2025-01-09,Santo Amaro,Tubo,saida,-10.19,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-9.37,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-9.36,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-10.60,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-10.40,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-10.48,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-10.62,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-9.30,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-10.73,Jill
+2025-01-09,Santo Amaro,Tubo,saida,-9.25,Jill
+2025-01-26,Morumbi,Seringa,entrada,258.65,Karina
+2025-01-26,Morumbi,Seringa,entrada,263.52,Karina
+2025-01-26,Morumbi,Seringa,entrada,261.57,Karina
+2025-01-26,Morumbi,Seringa,entrada,248.99,Karina
+2025-01-26,Morumbi,Seringa,entrada,259.17,Karina
+2025-01-26,Morumbi,Seringa,entrada,277.81,Karina
+2025-01-26,Morumbi,Seringa,entrada,247.14,Karina
+2025-01-26,Morumbi,Seringa,entrada,266.24,Karina
+2025-01-26,Morumbi,Seringa,entrada,279.44,Karina
+2025-01-26,Morumbi,Seringa,entrada,245.71,Karina
+2025-02-05,Morumbi,Esparadrapo,saida,-15.90,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-16.75,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-15.73,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-17.48,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-15.65,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-17.08,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-17.97,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-15.86,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-18.10,Michael
+2025-02-05,Morumbi,Esparadrapo,saida,-15.81,Michael
+2025-01-15,Moema,Tubo,saida,-1.06,Michelle
+2025-01-15,Moema,Tubo,saida,-1.05,Michelle
+2025-01-15,Moema,Tubo,saida,-0.92,Michelle
+2025-01-15,Moema,Tubo,saida,-1.02,Michelle
+2025-01-15,Moema,Tubo,saida,-1.07,Michelle
+2025-01-15,Moema,Tubo,saida,-0.99,Michelle
+2025-01-15,Moema,Tubo,saida,-0.97,Michelle
+2025-01-15,Moema,Tubo,saida,-0.95,Michelle
+2025-01-15,Moema,Tubo,saida,-1.02,Michelle
+2025-01-15,Moema,Tubo,saida,-0.96,Michelle
+2025-05-17,Santo Amaro,Seringa,saida,-19.42,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-18.63,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-19.14,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-19.12,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-18.21,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-18.67,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-19.12,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-20.06,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-18.76,Kathryn
+2025-05-17,Santo Amaro,Seringa,saida,-17.51,Kathryn
+2025-01-23,Santo Amaro,Esparadrapo,saida,-2.08,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-1.95,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-2.04,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-2.06,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-2.11,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-1.94,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-2.01,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-1.88,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-1.97,Terry
+2025-01-23,Santo Amaro,Esparadrapo,saida,-2.07,Terry
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.64,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.09,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.51,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.24,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.22,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.39,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-8.72,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.09,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-8.78,Ryan
+2024-12-14,Santo Amaro,Esparadrapo,saida,-9.49,Ryan
+2025-03-11,Morumbi,Medicamentos,saida,-11.38,James
+2025-03-11,Morumbi,Medicamentos,saida,-10.76,James
+2025-03-11,Morumbi,Medicamentos,saida,-10.85,James
+2025-03-11,Morumbi,Medicamentos,saida,-11.82,James
+2025-03-11,Morumbi,Medicamentos,saida,-11.18,James
+2025-03-11,Morumbi,Medicamentos,saida,-10.86,James
+2025-03-11,Morumbi,Medicamentos,saida,-11.18,James
+2025-03-11,Morumbi,Medicamentos,saida,-10.89,James
+2025-03-11,Morumbi,Medicamentos,saida,-10.20,James
+2025-03-11,Morumbi,Medicamentos,saida,-11.51,James
+2025-03-31,Morumbi,Seringa,saida,-16.50,Ashley
+2025-03-31,Morumbi,Seringa,saida,-17.23,Ashley
+2025-03-31,Morumbi,Seringa,saida,-17.52,Ashley
+2025-03-31,Morumbi,Seringa,saida,-17.92,Ashley
+2025-03-31,Morumbi,Seringa,saida,-16.73,Ashley
+2025-03-31,Morumbi,Seringa,saida,-16.79,Ashley
+2025-03-31,Morumbi,Seringa,saida,-17.10,Ashley
+2025-03-31,Morumbi,Seringa,saida,-16.32,Ashley
+2025-03-31,Morumbi,Seringa,saida,-16.14,Ashley
+2025-03-31,Morumbi,Seringa,saida,-16.82,Ashley
+2024-11-26,Morumbi,Seringa,saida,-17.12,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-17.84,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.87,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-18.14,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.19,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-15.77,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-18.19,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.02,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-18.14,Jeremy
+2024-11-26,Morumbi,Seringa,saida,-16.08,Jeremy
+2025-04-10,Morumbi,Medicamentos,saida,-1.93,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.11,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.07,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.06,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-1.95,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.05,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.01,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.14,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.10,Joseph
+2025-04-10,Morumbi,Medicamentos,saida,-2.13,Joseph
+2024-12-03,Santo Amaro,Gaze,saida,-9.56,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.72,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.75,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.57,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.27,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.96,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.64,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-9.91,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.22,Brett
+2024-12-03,Santo Amaro,Gaze,saida,-10.36,Brett
+2025-01-07,Moema,Medicamentos,saida,-18.96,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.74,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.39,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.63,Melinda
+2025-01-07,Moema,Medicamentos,saida,-20.03,Melinda
+2025-01-07,Moema,Medicamentos,saida,-20.41,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.44,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.92,Melinda
+2025-01-07,Moema,Medicamentos,saida,-19.57,Melinda
+2025-01-07,Moema,Medicamentos,saida,-18.35,Melinda
+2025-01-29,Morumbi,Esparadrapo,saida,-12.91,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.70,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.51,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.62,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.60,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.25,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-12.26,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.07,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.58,Justin
+2025-01-29,Morumbi,Esparadrapo,saida,-11.27,Justin
+2025-01-25,Morumbi,Tubo,saida,-117.75,Patrick
+2025-01-25,Morumbi,Tubo,saida,-104.12,Patrick
+2025-01-25,Morumbi,Tubo,saida,-113.10,Patrick
+2025-01-25,Morumbi,Tubo,saida,-107.67,Patrick
+2025-01-25,Morumbi,Tubo,saida,-114.31,Patrick
+2025-01-25,Morumbi,Tubo,saida,-111.50,Patrick
+2025-01-25,Morumbi,Tubo,saida,-117.70,Patrick
+2025-01-25,Morumbi,Tubo,saida,-110.54,Patrick
+2025-01-25,Morumbi,Tubo,saida,-110.33,Patrick
+2025-01-25,Morumbi,Tubo,saida,-110.48,Patrick
+2025-02-28,Santo Amaro,Tubo,saida,-20.60,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-19.00,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-19.28,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-20.04,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-20.60,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-18.58,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-18.49,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-19.96,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-19.17,Tyler
+2025-02-28,Santo Amaro,Tubo,saida,-18.77,Tyler
+2025-03-18,Moema,Tubo,saida,-51.86,Melissa
+2025-03-18,Moema,Tubo,saida,-49.80,Melissa
+2025-03-18,Moema,Tubo,saida,-47.79,Melissa
+2025-03-18,Moema,Tubo,saida,-48.57,Melissa
+2025-03-18,Moema,Tubo,saida,-48.75,Melissa
+2025-03-18,Moema,Tubo,saida,-50.41,Melissa
+2025-03-18,Moema,Tubo,saida,-53.03,Melissa
+2025-03-18,Moema,Tubo,saida,-53.17,Melissa
+2025-03-18,Moema,Tubo,saida,-50.04,Melissa
+2025-03-18,Moema,Tubo,saida,-49.03,Melissa
+2025-02-09,Santo Amaro,Seringa,saida,-48.56,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-51.15,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-47.36,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-47.49,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-46.08,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-53.02,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-53.73,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-48.50,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-48.65,Kenneth
+2025-02-09,Santo Amaro,Seringa,saida,-48.61,Kenneth
+2025-05-06,Morumbi,Gaze,saida,-115.39,Valerie
+2025-05-06,Morumbi,Gaze,saida,-128.38,Valerie
+2025-05-06,Morumbi,Gaze,saida,-112.55,Valerie
+2025-05-06,Morumbi,Gaze,saida,-124.47,Valerie
+2025-05-06,Morumbi,Gaze,saida,-111.45,Valerie
+2025-05-06,Morumbi,Gaze,saida,-115.67,Valerie
+2025-05-06,Morumbi,Gaze,saida,-111.01,Valerie
+2025-05-06,Morumbi,Gaze,saida,-122.35,Valerie
+2025-05-06,Morumbi,Gaze,saida,-125.19,Valerie
+2025-05-06,Morumbi,Gaze,saida,-115.84,Valerie
